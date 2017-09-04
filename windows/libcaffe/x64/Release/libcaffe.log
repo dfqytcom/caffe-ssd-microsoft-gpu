@@ -1,0 +1,3 @@
+﻿D:\caffe-ssd-microsoft\windows\CommonSettings.targets(7,5): error : CommonSettings.props not found!
+D:\caffe-ssd-microsoft\windows\CommonSettings.targets(7,5): error : To resolve this copy 'D:\caffe-ssd-microsoft\windows\CommonSettings.props.example' to 'D:\caffe-ssd-microsoft\windows\CommonSettings.props'.
+D:\caffe-ssd-microsoft\windows\CommonSettings.targets(7,5): error : Review all build options in CommonSettings.props, and make sure they fit your needs!
